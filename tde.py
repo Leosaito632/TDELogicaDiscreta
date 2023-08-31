@@ -1,3 +1,4 @@
+#Leonardo Saito e Bruno Himóvski Opuszka Machado Dutra
 with open("arquivo2.txt", "r") as arquivo:
   texto = arquivo.readlines()
 
